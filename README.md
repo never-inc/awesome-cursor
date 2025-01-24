@@ -18,4 +18,12 @@ This repository is a collection of .cursorrules for Cursor IDE developers. It pr
 
 ### Flutter
 
-- [Never inc design guidelines](./rules/flutter-neverinc/.cursorrules)
+- [Never inc design guidelines using Supabase](./rules/flutter-supabase-neverinc/.cursorrules)
+
+## References
+
+[awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
+
+## License
+
+[MIT](LICENSE)
