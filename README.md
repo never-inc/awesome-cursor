@@ -1,18 +1,18 @@
 # Awesome Cursor
 
-このリポジトリは、Cursor IDEを使用する開発者のための.cursorruleコレクションです。技術スタックごとに最適化されたルールを提供し、開発体験を向上させます。
+This repository is a collection of .cursorrules for Cursor IDE developers. It provides optimized rules for each technology stack to improve the development experience.
 
-## 特徴
+## Features
 
-- 各技術スタック（Flutter, Next.jsなど）に特化したcursorrules
-- 開発効率を向上させるベストプラクティスの集約
-- コミュニティドリブンでの改善と更新
+- Specialized cursorrules for various technology stacks (Flutter, Next.js, etc.)
+- Collection of best practices to improve development efficiency
+- Community-driven improvements and updates
 
-## 使い方
+## Usage
 
-1. 使用したい技術スタックのディレクトリに移動
-2. `.cursorrules`ファイルをプロジェクトのルートディレクトリにコピー
-3. Cursorで開発を開始
+1. Navigate to the technology stack directory you want to use
+2. Copy the `.cursorrules` file to your project's root directory
+3. Start development with Cursor
 
 ## Rules
 
