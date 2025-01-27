@@ -1,5 +1,7 @@
-# Never inc. App Architecture (Supabase + Firebase)
-
+---
+description: Never inc. App Architecture (Supabase + Firebase)
+globs: *.dart
+---
 ## Overview
 
 This document outlines the current project structure and architectural patterns. Follow these guidelines to maintain consistency while applying Flutter best practices.

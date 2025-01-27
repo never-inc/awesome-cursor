@@ -11,14 +11,14 @@ This repository is a collection of .cursorrules for Cursor IDE developers. It pr
 ## Usage
 
 1. Navigate to the technology stack directory you want to use
-2. Copy the `.cursorrules` file to your project's root directory
+2. Copy the `.cursor/rules` file to your project's root directory
 3. Start development with Cursor
 
 ## Rules
 
 ### Flutter
 
-- [Never inc design guidelines using Supabase](./rules/flutter-supabase-neverinc/.cursorrules)
+- [Never inc design guidelines using Supabase](./rules/flutter/flutter-supabase-neverinc.mdc)
 
 ## References
 
