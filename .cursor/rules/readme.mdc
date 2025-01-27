@@ -1,1 +1,5 @@
+---
+description: readme
+globs: 
+---
 This is a project to increase development efficiency using cursor. It manages cursorrules for each technology stack to increase development efficiency.
