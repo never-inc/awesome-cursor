@@ -1,6 +1,6 @@
 ---
 description: Never inc. App Architecture (Supabase + Firebase)
-globs: *.dart
+globs: *.dart, *.yaml
 ---
 ## Overview
 
